@@ -1,0 +1,7 @@
+{
+    "Employee":{
+        "name": "John Doe",
+        "age": 21,
+        "position": "Software Engineer"
+    }
+}

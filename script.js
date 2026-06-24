@@ -4,10 +4,5 @@ const showAppName = () => {
   console.log(message);
 };
 
-// showAppName();
-// console.log(appName);
-
-age = 18;
-age = 'Name';
-
-console.log(age);
+import { Total } from './array.js'
+console.log(Total())
